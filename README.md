@@ -1,6 +1,6 @@
 # Keychron K8 UK ISO Windows Layout
 
-MSKLC is a tool for creating Windows Keyboard Layouts. This layout is built to allow Windows users to use a Keychron K8's UK ISO Apple Layout on Windows.
+Microsoft Keyboard Layout Creator (MSKLC) is a tool for creating Windows Keyboard Layouts. This layout is built to allow Windows users to use a Keychron K8's UK ISO Apple Layout on Windows.
 
 ![image](https://github.com/andy-c-jones/Keychron-K8-UK-ISO-Windows-layout/assets/2070987/ae0024ed-ed37-450b-98ad-697abf248b92)
 ![image](https://github.com/andy-c-jones/Keychron-K8-UK-ISO-Windows-layout/assets/2070987/54cc0152-ef44-4ee1-b2a0-c5f94f7fec70)
